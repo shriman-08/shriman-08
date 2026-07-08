@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Deo Vaibhav 👋</h1>
-<h3 align="center">IEEE-published ML researcher | Physics-Informed Neural Networks | Computer Vision | Predictive Analytics</h3>
+<h3 align="center">IEEE-published | ML researcher | Physics-Informed Neural Networks | Computer Vision | Predictive Analytics</h3>
 
 <p align="center">
   Final-year EEE undergrad at Amrita Vishwa Vidyapeetham, building end-to-end ML systems —
