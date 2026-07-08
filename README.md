@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Deo Vaibhav 👋</h1>
-<h3 align="center">IEEE-published | ML researcher | Physics-Informed Neural Networks | Computer Vision | Predictive Analytics</h3>
+<h3 align="center">IEEE-published ML researcher | Physics-Informed Neural Networks | Computer Vision | Predictive Analytics</h3>
 
 <p align="center">
   Final-year EEE undergrad at Amrita Vishwa Vidyapeetham, building end-to-end ML systems —
@@ -25,32 +25,6 @@ physics-informed regularisation on one side; deployment, dashboards, and busines
 
 ---
 
-### 🚀 Featured Projects
-
-**[Physics-Informed Neural Network for Solar Irradiance Forecasting](#)**
-Benchmarked 3 PINN architectures on 8,784 hourly NSRDB satellite data points (8 meteorological features).
-Best model: **R² = 0.9873, RMSE = 40.28 W/m²** — a 15% improvement over ML baselines. Paper accepted (oral) at **IEEE IATMSI-2026**.
-`Python` `TensorFlow` `PyTorch` `Time-Series`
-
-**[DriveGuard — Real-Time Driver Behaviour Monitoring](#)**
-Multi-model inference pipeline (MediaPipe Face Mesh, Head Pose, YOLOv8) across 468 facial landmarks, classifying
-drowsiness, distraction & phone usage in real time. EAR-based time-threshold logic for near-zero false positives. Built for **ML-Forge 2026 Hackathon**.
-`Python` `OpenCV` `YOLOv8` `Flask` `SocketIO`
-
-**[Predictive Maintenance — IC Engine Fault Detection & RUL Prediction](#)**
-Two-stage ensemble pipeline (Random Forest + SVM/MLP/KNN/Decision Tree) on 16,183 engine sensor samples.
-Random Forest: **74.2% fault-cause accuracy, F1 = 0.764**. Decision Tree: **81.1% condition-classification accuracy, F1 = 0.824**.
-`Python` `scikit-learn` `Ensemble Methods`
-
-**[Emotion Recognition — Deep CNN Classifier](#)**
-20-layer CNN (3.9M params) on FER2013 (35,887 images, 7 classes). Data augmentation + class-weighting raised
-macro F1 from 0.55 → 0.61, with a 45% gain on minority-class performance.
-`Python` `TensorFlow` `Class Imbalance Handling`
-
-> Replace the `(#)` links above with each project's actual repo URL once pushed.
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
@@ -62,15 +36,6 @@ macro F1 from 0.55 → 0.61, with a 45% gain on minority-class performance.
 **Data & Viz:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) Matplotlib · Seaborn · Power BI
 
 **Dev:** ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Google Colab
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriman-08&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriman-08&layout=compact&hide_border=true" height="165"/>
-</p>
 
 ---
 
