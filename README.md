@@ -39,4 +39,27 @@ Domain physics embedded as loss regularisation across three PINN architectures: 
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) SQL (basic) · C
 
-**ML / DL:** ![TensorFlow](https://img.shields.io/b
+**ML / DL:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) LightGBM
+
+**Computer vision and edge AI:** ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) YOLOv8 · MediaPipe · ONNX · Edge Impulse · TFLite
+
+**Data and viz:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) Matplotlib · pvlib · Power BI · Excel
+
+**Dev:** ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Google Colab
+
+---
+
+### 📄 Publications
+
+- **Transforming Marginalized Urban Communities: Participatory Models for Women Empowerment through Green Livelihoods.** 2026 IEEE IATMSI, ABV-IIITM Gwalior, March 2026. [DOI: 10.1109/IATMSI68868.2026.11465935](https://doi.org/10.1109/IATMSI68868.2026.11465935)
+- **Wearable Edge AI for Postoperative Knee Rehabilitation Monitoring with Multimodal Closed-Loop Feedback.** ISTAS 2026 (accepted).
+
+---
+
+### 🎤 Beyond code
+
+Co-Head of DebSoc (Debating Society), 1st place in Debate and Elocution at Sargamritam '24, youth panelist at the India Economics Conclave 2025, and 2nd place at the Eureka Pitching Competition (IIT Bombay).
+
+---
+
+*Open to data, machine learning, analytics and strategy roles. Let's connect.*
